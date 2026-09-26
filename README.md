@@ -4,8 +4,8 @@
 
 ## Contenu
 
-- [`a-odyssey.pdf`](./a-odyssey.pdf) — le recueil complet
-- [`a-odyssey-presentation.pdf`](./a-odyssey-presentation.pdf) — le support de présentation
+- [`a-odyssey.pdf`](./blob/main/ai-odyssey.pdf) — le recueil complet
+- [`a-odyssey-presentation.pdf`](./blob/main/a-odyssey-presentation.pdf) — le support de présentation
 
 ## Thèmes abordés
 
