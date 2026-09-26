@@ -6,7 +6,7 @@ Quand je songe à l'effervescence autour du Machine Learning des années 90-déb
 
 L'époque actuelle (2017-2026) a vu la découverte de l'IA par le grand public : les LLMs qui arrivent en force, les FMs multimodaux, les RAG, les Agents, les annonces de sorties de nouveaux LLMs frontier.
 
-Mais cette époque est-elle si riche que cela, ou le surinvestissement (par centaines de milliards dans le scaling de transformers) est-il comme un arbre qui cacherait la forêt ?
+Mais cette époque est-elle si riche que cela, ou le surinvestissement (par centaines de milliards dans le scaling de transformers) est comme un arbre qui cacherait la forêt ?
 
 ---
 
